@@ -38,7 +38,7 @@ public class BackendRestController {
     }
 
     @CrossOrigin(origins = "http://localhost:3000")
-    @GetMapping(path = "/getData")
+    @GetMapping(path = "/getdata")
     public ResponseEntity<?> getFrontendData(){
         var calculations = new ArrayList<CalculationEntry>();
 

@@ -1,7 +1,7 @@
 # Getting Started
 
 ### Kør frontend
-Java 11 / Node.js 16 / NPM 8
+Node.js 16 / NPM 8
 
 1. Åben en terminal
 2. CD til 'cd src/main/frontend'
@@ -11,6 +11,8 @@ npm run serve
 ```
 
 ### Kør backend
+Java 11
+
 1. Åben en terminal
 2. Kør
 ```
